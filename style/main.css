@@ -47,7 +47,7 @@ header nav a:hover{
 
 .main-movie{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("img/xfiles.jpg");
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)25%), url('../img/xfiles.jpg');
     height:500px;
     background-size: cover;
     display: flex;
