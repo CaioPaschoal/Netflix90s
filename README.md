@@ -4,12 +4,12 @@
 
 ##### Browser print screen
 <p align="center">
-    <img alt="Browser print screen" src="https://imgur.com/UF6EW2Y">
+    <img alt="Browser print screen" src="img/printscreen/print1.jpg">
 </p>
 
 ##### Browser print screen 2
 <p align="center">
-    <img alt="Browser print screen" src="https://imgur.com/wGDBNrx">
+    <img alt="Browser print screen" src="img/printscreen/print1.jpg">
 </p>
 
 ---
