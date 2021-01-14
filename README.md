@@ -9,7 +9,7 @@
 
 ##### Browser print screen 2
 <p align="center">
-    <img alt="Browser print screen" src="img/printscreen/print1.jpg">
+    <img alt="Browser print screen" src="img/printscreen/print2.jpg">
 </p>
 
 ---
