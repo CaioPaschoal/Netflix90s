@@ -98,3 +98,10 @@ header nav a:hover{
     width: 100%;
     display: block;
 }
+
+.sugestion {
+    color: var(--netgrey);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
